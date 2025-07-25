@@ -4,12 +4,13 @@ Este repositório contém anotações, comandos, diagramas e exemplos práticos 
 
 ## 📑 Conteúdos
 
-- ✅ Anotações teóricas sobre redes
-- ✅ Comandos básicos de rede (Windows/Linux)
+
+- ✅ [Comandos de Rede (Windows/Linux)](https://github.com/mairasms/redes-e-infra-basica/tree/main/comandos)
 - ✅ Tabelas de endereçamento IP
 - ✅ Configuração de roteadores e switches (Packet Tracer, NetAcad)
 - ✅ Diagramas de topologias de rede
 - ✅ Simulações práticas
+- ✅ Anotações teóricas sobre redes
 
 ## 📡 Temas Abordados
 
