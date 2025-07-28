@@ -6,11 +6,8 @@ Este repositório contém anotações, comandos, diagramas e exemplos práticos 
 
 
 - ✅ [Comandos de Rede (Windows/Linux)](https://github.com/mairasms/redes-e-infra-basica/tree/main/comandos)
-- ✅ Tabelas de endereçamento IP
-- ✅ Configuração de roteadores e switches (Packet Tracer, NetAcad)
-- ✅ Diagramas de topologias de rede
-- ✅ Simulações práticas
-- ✅ Anotações teóricas sobre redes
+- ✅ [Tabelas de endereçamento IP](https://github.com/mairasms/redes-e-infra-basica/tree/main/enderecamento-ip)
+- ✅ [Configuração de roteadores e switches (Packet Tracer, NetAcad)](https://github.com/mairasms/redes-e-infra-basica/tree/main/configuracao-de-roteadores-e-switches)
 
 ## 📡 Temas Abordados
 
@@ -28,13 +25,6 @@ Este repositório contém anotações, comandos, diagramas e exemplos práticos 
 - Navegue pelas pastas para acessar cada conteúdo.
 - Execute os comandos em seu terminal para praticar.
 - Abra os diagramas na ferramenta [draw.io](https://www.diagrams.net/) ou visualize como imagem diretamente.
-
-## 🛠️ Ferramentas Recomendadas
-
-- Cisco Packet Tracer
-- GNS3
-- Wireshark
-- Draw.io
 
 ## 🤝 Contribuições
 
